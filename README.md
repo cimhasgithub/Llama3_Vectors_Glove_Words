@@ -30,7 +30,7 @@ This repository contains **precomputed LLaMA embedding vectors** generated using
 > **Note:** Sizes are approximate and may vary slightly depending on compression.  
 
 ## How these vectors are created
-<img width="656" height="353" alt="image" src="https://github.com/user-attachments/assets/421a3c0d-b189-456a-8843-2f0afd1b04ca" />
+![plot](./Llama_Emb_Creation.png)
 
 
 ## Usage  
